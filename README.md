@@ -17,6 +17,3 @@ Avoid HARD-CODING BEHAVOUR...
 3. Builder
 4. Protype
 5. Singleton
-
-# Factory Method
-Lets the subclasses instantialte the object creaton instead of main class.
